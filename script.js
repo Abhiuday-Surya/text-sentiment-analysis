@@ -9,7 +9,7 @@ function sentimentAnalysis(text) {
     const afinn = {
       // AFINN-165 word list
       // Source: http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010
-      "abandon": -2,
+      love : -2,
       "abandoned": -2,
       "abandons": -2,
       "abducted": -2,
